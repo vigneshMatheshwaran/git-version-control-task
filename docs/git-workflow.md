@@ -25,3 +25,10 @@
 - Review changes through Pull Requests.
 - Never commit secrets or unnecessary files.
 - Use `.gitignore` for files that should not be tracked.
+## Useful Git Commands
+
+### Check Status
+
+```bash
+git status
+Conflict test: Feature A + Feature B changes resolved
