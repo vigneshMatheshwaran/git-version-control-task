@@ -31,4 +31,4 @@
 
 ```bash
 git status
-Conflict test: Feature A change
+Conflict test: Feature A + Feature B changes resolved
