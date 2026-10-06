@@ -31,3 +31,4 @@
 
 ```bash
 git status
+Conflict test: Feature B change
